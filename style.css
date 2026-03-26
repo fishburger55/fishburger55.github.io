@@ -1,0 +1,35 @@
+/* style.css */
+body {
+    font-family: 'Arial', sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    background: #f8f9fa;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.jlu-badge {
+    background: #002D62;
+    color: white;
+    padding: 1rem;
+    border-radius: 8px;
+    display: inline-flex;
+    align-items: center;
+    gap: 1rem;
+    margin: 1rem 0;
+}
+
+.jlu-badge img {
+    height: 40px;
+}
+
+.content {
+    background: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
